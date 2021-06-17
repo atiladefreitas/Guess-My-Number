@@ -1,4 +1,4 @@
-# Guess My Numbes
+# Guess My Number
 
 ## Description
 A mini-game that is to simply guess a secret number which is between one and 20.
