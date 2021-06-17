@@ -1,9 +1,6 @@
-# Project Title
-
-### Guess My Numbes
+# Guess My Numbes
 
 ## Description
-
 A mini-game that is to simply guess a secret number which is between one and 20.
 
 ## Author
